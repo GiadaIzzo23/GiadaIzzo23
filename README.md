@@ -1,16 +1,18 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="340" align="center" valign="middle">
+  <img src="assets/lily.gif" alt="An ASCII lily growing and blooming, rendered in Python" width="300">
+</td>
+<td valign="middle">
 
-<!--
-**GiadaIzzo23/GiadaIzzo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Giada Izzo</h1>
 
-Here are some ideas to get you started:
+<p><b>Computer Engineering graduate</b> · Italy</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I hold a degree in Computer Engineering, with a background in electrical circuits, control systems and software engineering. I build things in C++, Java, Python and TypeScript, and on the side I like small experiments, like the ASCII lily on the left, which is generated entirely in Python.</p>
+
+<p><code>C++</code> <code>Java</code> <code>Python</code> <code>TypeScript</code> <code>Jupyter</code> <code>Git</code></p>
+
+</td>
+</tr>
+</table>
